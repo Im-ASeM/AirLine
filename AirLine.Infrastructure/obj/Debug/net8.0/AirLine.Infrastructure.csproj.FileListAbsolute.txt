@@ -1,0 +1,17 @@
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\bin\Debug\net8.0\AirLine.Infrastructure.deps.json
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\bin\Debug\net8.0\AirLine.Infrastructure.runtimeconfig.json
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\bin\Debug\net8.0\AirLine.Infrastructure.dll
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\bin\Debug\net8.0\AirLine.Infrastructure.pdb
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\obj\Debug\net8.0\AirLine.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\obj\Debug\net8.0\AirLine.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\obj\Debug\net8.0\AirLine.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\obj\Debug\net8.0\AirLine.Infrastructure.AssemblyInfo.cs
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\obj\Debug\net8.0\AirLine.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\obj\Debug\net8.0\AirLine.Infrastructure.dll
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\obj\Debug\net8.0\refint\AirLine.Infrastructure.dll
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\obj\Debug\net8.0\AirLine.Infrastructure.pdb
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\obj\Debug\net8.0\AirLine.Infrastructure.genruntimeconfig.cache
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\obj\Debug\net8.0\ref\AirLine.Infrastructure.dll
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\bin\Debug\net8.0\AirLine.Core.dll
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\bin\Debug\net8.0\AirLine.Core.pdb
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\obj\Debug\net8.0\AirLine..EBF679FF.Up2Date

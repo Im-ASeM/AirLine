@@ -1,0 +1,11 @@
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Core\bin\Debug\net8.0\AirLine.Core.deps.json
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Core\bin\Debug\net8.0\AirLine.Core.dll
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Core\bin\Debug\net8.0\AirLine.Core.pdb
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Core\obj\Debug\net8.0\AirLine.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Core\obj\Debug\net8.0\AirLine.Core.AssemblyInfoInputs.cache
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Core\obj\Debug\net8.0\AirLine.Core.AssemblyInfo.cs
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Core\obj\Debug\net8.0\AirLine.Core.csproj.CoreCompileInputs.cache
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Core\obj\Debug\net8.0\AirLine.Core.dll
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Core\obj\Debug\net8.0\refint\AirLine.Core.dll
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Core\obj\Debug\net8.0\AirLine.Core.pdb
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Core\obj\Debug\net8.0\ref\AirLine.Core.dll
