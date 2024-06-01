@@ -84,6 +84,7 @@ public class RTicketProcces : ITicket
     }
     private SimpleTicket ticketToSimple(Tickets item){
         return new SimpleTicket{
+            Sit = item.Sit,
             FullName=item.FullName,
             Origin=item.Origin,
             Destination=item.Destination,

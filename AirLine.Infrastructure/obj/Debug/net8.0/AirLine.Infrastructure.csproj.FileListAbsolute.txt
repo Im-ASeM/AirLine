@@ -15,3 +15,4 @@ C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\obj\Debug
 C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\bin\Debug\net8.0\AirLine.Core.dll
 C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\bin\Debug\net8.0\AirLine.Core.pdb
 C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\obj\Debug\net8.0\AirLine..EBF679FF.Up2Date
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Infrastructure\obj\Debug\net8.0\AirLine.Infrastructure.sourcelink.json

@@ -1,10 +1,10 @@
 public interface ITicket
 {
     public void NewTicket(NewTicket newFly);
-    public bool ReturnTicket(int Sit);
-    public List<SimpleTicket> SoldTickets();
-    public List<SimpleTicket> ReturnedTickets();
-    public List<SimpleTicket> AllTickets();
-    public List<SitOnly> ShowSits();
-    public decimal Amount();
+    public bool ReturnTicket(int Sit); // مرجوع کردن تیکت
+    public List<SimpleTicket> SoldTickets(); // تیکت برگشت نخورده
+    public List<SimpleTicket> ReturnedTickets(); // تیکت های برگشت خورده
+    public List<SimpleTicket> AllTickets(); // همه
+    public List<SitOnly> ShowSits(); // ID
+    public decimal Amount(); // هزینه ها
 }

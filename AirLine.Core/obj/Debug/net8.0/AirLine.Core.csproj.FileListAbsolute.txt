@@ -9,3 +9,4 @@ C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Core\obj\Debug\net8.0\Ai
 C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Core\obj\Debug\net8.0\refint\AirLine.Core.dll
 C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Core\obj\Debug\net8.0\AirLine.Core.pdb
 C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Core\obj\Debug\net8.0\ref\AirLine.Core.dll
+C:\Users\asemn\OneDrive\Desktop\Code\C#\AirPlan\AirLine.Core\obj\Debug\net8.0\AirLine.Core.sourcelink.json
